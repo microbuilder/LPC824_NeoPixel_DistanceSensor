@@ -10,6 +10,11 @@ This codebase makes use of the following parts:
 - [NeoPixel Ring - 16 x 5050 LEDs](https://www.adafruit.com/product/1463)
 - [Sharp IR Distance Sensor - GP2Y0A02YK](https://www.adafruit.com/product/1031)
 
+## Software Requirements
+
+- [LPCXpresso 8.2.2 IDE](http://www.nxp.com/products/microcontrollers-and-processors/arm-processors/lpc-cortex-m-mcus/lpc1100-cortex-m0-plus-m0/lpcxpresso-ide-v8.2.2:LPCXPRESSO)
+- [LPC824 Code Bundle for LPCXpresso (Rev 1)](http://www.nxp.com/assets/downloads/data/en/software/LPC824_Example_Code_Bundle_LPCXpresso_r1.0.zip)
+
 ## Resources
 
 There are three folders in this repository:
