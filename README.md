@@ -17,3 +17,7 @@ There are three folders in this repository:
 - `Source` - This folder contains an uncompressed copy of the project source code for browsing purposes, although the code has dependencies on the [LPC824 Code Bundle for LPCXpresso (Rev 1)](http://www.nxp.com/assets/downloads/data/en/software/LPC824_Example_Code_Bundle_LPCXpresso_r1.0.zip).
 - `CodeBundle` - This folder contains a .zip file that is compatible with the LPCXpresso IDE and the LPC824 Code Bundle, and is the suggested way to use this project with the LPCXpresso IDE.
 - `Design Files` - Contains the 3D design files used in this project.
+
+## Preview
+
+![Preview](DesignFiles/Neopixel_demo_final_v2.3.png)
